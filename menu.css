@@ -1,0 +1,33 @@
+
+a {
+  text-decoration-line: none;
+}
+
+
+.menu * {
+    text-align: center;
+  margin: 0 auto;
+  
+}
+
+.menu li { 
+  margin : 0 8%;
+  display: inline-block; 
+}
+
+.menu li a {
+  color:rgb(0, 0, 0);
+
+}
+
+.menu {
+  font-size: 30px;
+  font-style: italic;
+  padding-top: 5%;
+  position: fixed;
+  top: 0;
+  left: 0;  
+  right: 0;
+  bottom: 0;
+  height: 20px;
+} 

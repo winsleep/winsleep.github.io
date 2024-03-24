@@ -1,0 +1,81 @@
+.nanum-gothic-regular {
+    font-family: "Nanum Gothic", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+.body {
+    font-family: "Nanum Gothic", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+ }
+
+ #intro {
+    background-color: aquamarine;
+    background-size: cover;
+    text-align: center;
+    padding : 150px 50px ;
+    
+    border-color: aquamarine;
+    border: 10px solid;    
+    display: flex;
+    flex:1;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: stretch;
+ }
+.profile_photo{
+    flex:1.5;
+    
+}
+
+
+ .mbti {
+    font-size: 45px;
+    flex: 1;
+    position: relative;
+    top: 250px;
+    
+ }
+ 
+.add {
+    font-size: 45px;
+    font-style: italic;
+}
+
+
+
+ #hobby {
+    background-color: rgb(234, 238, 177);
+    background-size: cover;
+    text-align: center;
+    padding : 150px 50px ;
+   
+    border-color: aquamarine;
+    border: 10px solid; 
+    display:inline-flexbox;
+    flex-direction: row;
+ }
+
+    #hobby1{ 
+    border: 10px solid;
+    border-color: black;
+   
+ }
+ .picture{
+    margin: 300px   ;
+ }
+
+
+ .favorite {
+    background-color:skyblue;
+    background-size: cover;
+    text-align: center;
+    padding : 10px 5px ;
+   
+    border-color: silver;
+    border: 10px solid; 
+    display: flex;
+    flex-direction: row;
+ }
